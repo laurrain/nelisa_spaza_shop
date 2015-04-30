@@ -1,0 +1,30 @@
+{
+<<<<<<< HEAD
+  "name": "Nelisa",
+  "repository": "nothing", 
+=======
+  "name": "nelisa_web_page",
+>>>>>>> 1e6cf3bceab139b2c43456a15feb7c3abb7284e5
+  "version": "0.0.0",
+  "description": "Nelisa web app",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Laurrain and Emanuel",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+<<<<<<< HEAD
+    "express": "~4.12.3",
+    "body-parser": "^1.9.2",
+    "express-handlebars": "^1.1.0",
+    "express-myconnection": "^1.0.4",
+    "mysql": "^2.5.3",
+    "prompt": "^0.2.14"
+  }
+}
+=======
+    "express": "~4.12.3"
+  }
+}
+>>>>>>> 1e6cf3bceab139b2c43456a15feb7c3abb7284e5

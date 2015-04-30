@@ -1,0 +1,7 @@
+{
+  "name": "app.js Nelisa_spaza_shop",
+  "description": "A barebones Node.js app using Express 4",
+  "repository": "https://github.com/laurrain/nelisa_spaza_shop",
+  "logo": "http://nelisa_spaza_shop.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"]
+}
